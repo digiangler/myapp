@@ -1,0 +1,28 @@
+Started GET "/" for ::1 at 2019-05-13 16:44:16 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 108ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-05-13 16:47:09 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (4.1ms)
+Completed 200 OK in 9ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-05-13 20:21:35 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 9ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-05-13 23:11:53 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendering vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered vendor/bundle/ruby/2.6.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
